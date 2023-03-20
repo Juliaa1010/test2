@@ -1,0 +1,11 @@
+Model Information:
+* title:	Infinite LOOP
+* source:	https://sketchfab.com/3d-models/infinite-loop-6d9ba660a57d4be4b898bf9f7133e985
+* author:	3D Crafty (https://sketchfab.com/3DCrafty)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Infinite LOOP" (https://sketchfab.com/3d-models/infinite-loop-6d9ba660a57d4be4b898bf9f7133e985) by 3D Crafty (https://sketchfab.com/3DCrafty) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
